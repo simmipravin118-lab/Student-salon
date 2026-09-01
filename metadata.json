@@ -1,0 +1,8 @@
+{
+  "name": "Remix Student Salon",
+  "description": "Smart Digital Queue \u0026 Salon Management System for Student Salon in Telo, Chandrapura, Bokaro, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
